@@ -8,6 +8,7 @@ char c_checkValidity(int x) {
     char ret = 0;
     if(x%2 == 0)
         ret = 1;
+        //
     return ret;
 } 
 
